@@ -1,0 +1,5 @@
+app/__pycache__
+decorators/__pycache__
+engage-ragbotenv
+library
+.env
